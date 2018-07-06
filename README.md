@@ -4,6 +4,6 @@
 
 # USAGE
 
-./find_determinant <matrix[0][0] ... matrix[n][n]>
+`./find_determinant <matrix[0][0] ... matrix[n][n]>`
 
 Pass your matrix in linearized form via command-line arguments.
